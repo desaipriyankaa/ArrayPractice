@@ -28,6 +28,10 @@ namespace ArrayPractice
             {
                 Console.WriteLine(array);
             }
+
+
+            //Find the value in array at specific location
+            Console.WriteLine("\nValue at location 2 (arr[3]) : "+arr[3]);
         }
     }
 }
