@@ -20,6 +20,8 @@ namespace ArrayPractice
                 Console.WriteLine(array);
             }
 
+
+            //In array We can replace element but cannot add or remove element
             Console.WriteLine("\nAfter insertion :");
             arr[1] = new DateTime(2021, 7, 15);
             foreach (var array in arr)
